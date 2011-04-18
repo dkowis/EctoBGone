@@ -10,11 +10,6 @@
     <name>EctoBGone</name>
     <url>http://maven.apache.org</url>
 
-    <scm>
-        <developerConnection>scm:git:ssh://git@github.com/dkowis/EctoBGone.git</developerConnection>
-        <connection>scm:git:git://github.com/dkowis/EctoBGone.git</connection>
-    </scm>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
