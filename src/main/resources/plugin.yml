@@ -1,0 +1,6 @@
+name: anti-slime
+author: dkowis
+description: Disable those pesky slimes
+version: 1.0
+main: org.shlrm.bukkit.antislime.AntiSlime
+
