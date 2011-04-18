@@ -14,7 +14,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  *
  * @author Innectis
  */
-public class AntiSlime extends JavaPlugin {
+public class EctoBGone extends JavaPlugin {
     private final SlimeSpawnListener slimeSpawnListener = new SlimeSpawnListener(this);
 
 

@@ -1,6 +1,6 @@
-name: anti-slime
-author: dkowis
-description: Disable those pesky slimes
+name: ecto-b-gone
+author: David Kowis
+description: bust those pesky slimes
 version: 1.0
-main: org.shlrm.bukkit.antislime.AntiSlime
+main: org.shlrm.bukkit.antislime.EctoBGone
 

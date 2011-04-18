@@ -1,6 +1,8 @@
-== ABOUT ANTISLIME ==
+== ABOUT ECTO-B-GONE ==
 
-AntiSlime is a stupidly simple plugin to prevent slimes from spawning.
+When there's too much slime in your Bukkit server, who ya gonna call?
+
+ECTO-B-GONE is a stupidly simple plugin to prevent slimes from spawning.
 Currently in 1.4, the slimes spawn too fast, so this intercepts the spawning event
 and cancels it.
 

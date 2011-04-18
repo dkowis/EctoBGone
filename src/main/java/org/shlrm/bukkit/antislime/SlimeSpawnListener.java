@@ -12,9 +12,9 @@ import org.bukkit.event.entity.EntityListener;
  * To change this template use File | Settings | File Templates.
  */
 public class SlimeSpawnListener extends EntityListener {
-    private AntiSlime main;
+    private EctoBGone main;
 
-    public SlimeSpawnListener(AntiSlime plugin) {
+    public SlimeSpawnListener(EctoBGone plugin) {
         main = plugin;
     }
 
