@@ -1,4 +1,4 @@
-package org.shlrm.bukkit.antislime;
+package org.shlrm.bukkit.ectobgone;
 
 import org.bukkit.event.Event;
 import org.bukkit.event.Event.Priority;
